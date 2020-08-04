@@ -19,4 +19,26 @@ hello .. world . m
 * two
 * three
 
+- this is the list style two
+- and one more
+- this is also
+- this fine
+
+
+`this  isthe
+code block
+trhat never
+ends`
+
+---
+
+*this is the italic*
+**this is the bold**
+_this is_
+__this is ffff__
+
+
+
+
+
 

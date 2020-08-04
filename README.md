@@ -40,7 +40,7 @@ __this is ffff__
 
 ~~fffff~~
 term
-:hello
+: hello
 
 
 

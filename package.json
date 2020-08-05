@@ -1,0 +1,11 @@
+{
+  "name": "testApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/csaikumar501/testApp",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
+  }
+}
